@@ -27,4 +27,4 @@ jobs:
           app-name: 'cippzuzio-auditlog'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BAB99EE99CFD4F65B9E189818D81EFE8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_73BF474AE15E4A03BD7A04A0DAB4B499 }}
