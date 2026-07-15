@@ -27,4 +27,4 @@ jobs:
           app-name: 'cippzuzio-standards'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_79E8DE60A3504106AC622B41891C0D00 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A47769AD10114720A98F41C45397C2E3 }}
